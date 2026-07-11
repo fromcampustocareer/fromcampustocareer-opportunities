@@ -62,7 +62,12 @@ def update_row(row: str, today: datetime):
     has_closing = CLOSING in row
     if not (has_open or has_closing):
         return row, False
-    deadline = earliest_upcoming(row, today)
+    # Exclude the trailing "Date Posted" column from deadline detection — a row
+    # posted today renders its post-date as "today", which would otherwise be
+    # read as a 0-days-away deadline and wrongly flip the row to CLOSING SOON.
+    cells = row.split("|")
+    scan_text = "|".join(cells[:-2]) if len(cells) >= 3 else row
+    deadline = earliest_upcoming(scan_text, today)
     if not deadline:
         return row, False
     days_until = (deadline.date() - today.date()).days
