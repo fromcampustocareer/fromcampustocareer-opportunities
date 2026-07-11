@@ -36,7 +36,7 @@ The easiest way to contribute:
 
 Anything that helps a college student move toward a career: internships, fellowships, externships, programs, research, scholarships, conferences, mentorship, and early-career pipelines.
 
-Everything lives in **one table** — there are no sub-sections. The **Type** column tells readers what kind of opportunity it is.
+Opportunities are grouped into **industry sections** (Investment Banking, Quant Trading, Big Tech, AI, and so on), generated automatically from each listing's `industry` field. Within a section, the **Type** column tells readers what kind of opportunity it is. If a submission's industry isn't set, it lands under **Other** until a maintainer files it.
 
 ### Guidelines
 
@@ -71,7 +71,7 @@ Editing via issues is not currently supported. To update a listing:
 4. **Automation adds** the opportunity to the table
 5. **Issue is closed** with a summary of what was added
 
-`listings.json` is the single source of truth — the README table is auto-generated from it by `update_readmes.py`.
+`listings.json` is the single source of truth — the README's per-industry tables are auto-generated from it by `update_readmes.py`.
 
 ---
 
