@@ -104,6 +104,7 @@ def handle_new_opportunity(data, username, is_quick_add=False):
         "locations": locations,
         "season": season,
         "category": category,
+        "industry": "Other",
         "opportunity_type": opportunity_type,
         "target_year": ["All Students"],
         "sponsorship": sponsorship,
