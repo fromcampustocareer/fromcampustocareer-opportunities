@@ -2686,5 +2686,48 @@
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "c14c5659-5bf1-4f24-a543-2f05ef2d4f0a",
+    "company_name": "Amazon",
+    "title": "Software Development Engineer Internship - Fall 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3116030",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "season": "Fall",
+    "category": "Internship",
+    "opportunity_type": "Internship (Fall 2026; 12-Week, Undergraduate/Graduate)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1782241200,
+    "date_updated": 1782241200,
+    "source": "VazquezJocelyn"
+  },
+  {
+    "id": "d2b40ad1-c3ff-41e1-8f0b-cd22c004ce64",
+    "company_name": "Pinterest",
+    "title": "Software Engineer I, Backend",
+    "url": "https://www.pinterestcareers.com/jobs/6816337/software-engineer-i-backend/",
+    "locations": [
+      "Seattle, WA",
+      "San Francisco, CA"
+    ],
+    "season": "Multiple",
+    "category": "Other",
+    "opportunity_type": "Entry-Level Full-Time Software Engineer (Backend)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1782241200,
+    "date_updated": 1782241200,
+    "source": "VazquezJocelyn"
   }
 ]
