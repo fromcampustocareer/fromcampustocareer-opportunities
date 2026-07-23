@@ -2859,5 +2859,137 @@
     "date_updated": 1782241200,
     "source": "VazquezJocelyn",
     "industry": "Big Tech & Enterprise Software"
+  },
+  {
+    "id": "f67c5b8f-4ced-4951-84aa-6a8ba23bab41",
+    "company_name": "Society for Science / Regeneron",
+    "title": "Regeneron Science Talent Search 2027 \u2014 Deadline: Nov 5, 2026",
+    "url": "https://sciencetalentsearch.smapply.org/prog/regeneron_science_talent_search_2027/",
+    "locations": [
+      "Nationwide (United States)"
+    ],
+    "season": "Multiple",
+    "category": "Research",
+    "opportunity_type": "Original Biomedical Research Competition ($250K Top Prize; HS Seniors; U.S. Students, Citizenship Not Required)",
+    "target_year": [
+      "High School Seniors"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1784833200,
+    "date_updated": 1784833200,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
+  },
+  {
+    "id": "c7b1e0fc-5685-4893-a039-18e6f64d06a2",
+    "company_name": "NIH OITE",
+    "title": "NIH Postbac IRTA \u2014 Post-Baccalaureate Research (Rolling)",
+    "url": "https://www.training.nih.gov/research-training/pb/pb/",
+    "locations": [
+      "NIH Intramural Labs (Bethesda, MD)"
+    ],
+    "season": "Multiple",
+    "category": "Research",
+    "opportunity_type": "Postbac Research at NIH Intramural Labs (Rolling; U.S. Citizen/PR Graduating Within ~6 Months of Start; Apply Senior Year for Post-Grad Start)",
+    "target_year": [
+      "Senior"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1784833200,
+    "date_updated": 1784833200,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
+  },
+  {
+    "id": "ae4975c4-f212-4fe7-a76e-a3ca48da617c",
+    "company_name": "Children's National Hospital",
+    "title": "ED Clinical Research Undergraduate Internship \u2014 Deadline: Aug 10, 2026",
+    "url": "https://redcap.link/research_internship",
+    "locations": [
+      "Washington, DC"
+    ],
+    "season": "Multiple",
+    "category": "Internship",
+    "opportunity_type": "Clinical Research Internship (Fall 2026\u2013Spring 2027 Cohort; ED + Hematology; Patient Enrollment, Physician Shadowing & Workshops; 15 hrs/wk On-Site; Undergrad 18+, Sophomore+; Post-Bacs Eligible)",
+    "target_year": [
+      "Sophomore"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1784833200,
+    "date_updated": 1784833200,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
+  },
+  {
+    "id": "405689cf-b2b8-42fe-9e1e-f3d1c64493d8",
+    "company_name": "CEUfast",
+    "title": "Undergraduate Nursing Scholarship \u2014 Deadline: Aug 3, 2026",
+    "url": "https://ceufast.com/scholarships",
+    "locations": [
+      "Online / Nationwide (United States)"
+    ],
+    "season": "Multiple",
+    "category": "Scholarship",
+    "opportunity_type": "Nursing Scholarship ($1,000 + CEUfast Subscription; Undergrad; Accredited ADN/BSN; U.S.)",
+    "target_year": [
+      "Undergraduate"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1784833200,
+    "date_updated": 1784833200,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
+  },
+  {
+    "id": "3c9ee071-e256-4ab3-aa38-bd55ed18ab51",
+    "company_name": "CEUfast",
+    "title": "Graduate Nursing Scholarship \u2014 Deadline: Aug 3, 2026",
+    "url": "https://ceufast.com/scholarships",
+    "locations": [
+      "Online / Nationwide (United States)"
+    ],
+    "season": "Multiple",
+    "category": "Scholarship",
+    "opportunity_type": "Nursing Scholarship ($5,000 + CEUfast Subscription; Grad; MSN/DNP/PhD/Post-Master's)",
+    "target_year": [
+      "Graduate"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1784833200,
+    "date_updated": 1784833200,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
+  },
+  {
+    "id": "96bef902-2413-4c7a-9e75-c19b0491caba",
+    "company_name": "Georgetown Global Health Institute",
+    "title": "Global Health Student Fellows 2026\u20132027 \u2014 Deadline: Sep 15, 2026",
+    "url": "https://globalhealth.georgetown.edu/work/global-health-student-fellows/",
+    "locations": [
+      "Washington, DC (Georgetown University)"
+    ],
+    "season": "Multiple",
+    "category": "Fellowship",
+    "opportunity_type": "Global Health Student Fellowship (Georgetown Undergrads Only)",
+    "target_year": [
+      "Undergraduate"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1784833200,
+    "date_updated": 1784833200,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
   }
 ]

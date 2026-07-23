@@ -28,6 +28,7 @@ INDUSTRY_ORDER = [
     "Asset Management & Venture Capital",
     "Semiconductors & Hardware",
     "Healthcare & Medical Devices",
+    "Medical & Health-Field Opportunities for Students",
     "Consumer & Food",
 ]
 
