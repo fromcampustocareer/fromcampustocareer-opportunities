@@ -40,7 +40,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**123 open roles across 11 industries.** Jump to a sector:
+**129 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 46
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
@@ -52,6 +52,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 - [Asset Management & Venture Capital](#asset-management--venture-capital) — 2
 - [Semiconductors & Hardware](#semiconductors--hardware) — 1
 - [Healthcare & Medical Devices](#healthcare--medical-devices) — 1
+- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 6
 - [Consumer & Food](#consumer--food) — 1
 
 ### Investment Banking & Financial Services
@@ -179,7 +180,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Naive | Software Engineer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://www.workatastartup.com/jobs/94647"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Trata | Research Scientist Intern (Summer 2027) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://www.workatastartup.com/jobs/94620"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Listen Labs | Future Founder Program | Full-Time Engineering Program for Aspiring Founders (Selective; Mentorship from Founders/Investors) | San Francisco, CA | <a href="https://listenlabs.ai/founder-program"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 19, 2026 |
-| 🔥 **[CLOSING SOON]** | Anthropic | Claude Corps Fellow — Deadline: July 17, 2026 (First Cohort) :no_entry_sign: | Year-Long Fellowship (Anthropic x CodePath; Early Career, <2 yrs Exp; $85K; No Visa Sponsorship) | United States | <a href="https://job-boards.greenhouse.io/claudecorps/jobs/4250200009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | Anthropic | Claude Corps Fellow — Deadline: July 17, 2026 (First Cohort) :no_entry_sign: | Year-Long Fellowship (Anthropic x CodePath; Early Career, <2 yrs Exp; $85K; No Visa Sponsorship) | United States | <a href="https://job-boards.greenhouse.io/claudecorps/jobs/4250200009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Fellowships, Scholarships & Career Programs
 
@@ -219,7 +220,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
 | ✅ **[OPEN]** | Anduril | Software Engineer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Los Alamos National Laboratory | Computing & AI Division Undergraduate Student | Internship (Summer 2027) | Multiple Locations | <a href="https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| 🔥 **[CLOSING SOON]** | Blue Origin | Software Developer Internship – Undergraduate (Spring 2027) — Deadline: July 15, 2026 | Internship (Undergraduate) | Multiple Locations | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | Blue Origin | Software Developer Internship – Undergraduate (Spring 2027) — Deadline: July 15, 2026 | Internship (Undergraduate) | Multiple Locations | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Asset Management & Venture Capital
 
@@ -245,6 +246,19 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
 | ✅ **[OPEN]** | Dexcom | 2027 US Summer Internship, Early Interest | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.dexcom.com/careers/job/40100410"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
+
+### Medical & Health-Field Opportunities for Students
+
+**6 open roles**
+
+| Status | Organization | Opportunity | Type | Location | Application | Date Posted |
+| ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| ✅ **[OPEN]** | CEUfast | Undergraduate Nursing Scholarship — Deadline: Aug 3, 2026 | Nursing Scholarship ($1,000 + CEUfast Subscription; Undergrad; Accredited ADN/BSN; U.S.) | Online / Nationwide (United States) | <a href="https://ceufast.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ✅ **[OPEN]** | CEUfast | Graduate Nursing Scholarship — Deadline: Aug 3, 2026 | Nursing Scholarship ($5,000 + CEUfast Subscription; Grad; MSN/DNP/PhD/Post-Master's) | Online / Nationwide (United States) | <a href="https://ceufast.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ✅ **[OPEN]** | Children's National Hospital | ED Clinical Research Undergraduate Internship — Deadline: Aug 10, 2026 | Clinical Research Internship (Fall 2026–Spring 2027 Cohort; ED + Hematology; Patient Enrollment, Physician Shadowing & Workshops; 15 hrs/wk On-Site; Undergrad 18+, Sophomore+; Post-Bacs Eligible) | Washington, DC | <a href="https://redcap.link/research_internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ✅ **[OPEN]** | Georgetown Global Health Institute | Global Health Student Fellows 2026–2027 — Deadline: Sep 15, 2026 | Global Health Student Fellowship (Georgetown Undergrads Only) | Washington, DC (Georgetown University) | <a href="https://globalhealth.georgetown.edu/work/global-health-student-fellows/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ✅ **[OPEN]** | NIH OITE | NIH Postbac IRTA — Post-Baccalaureate Research (Rolling) | Postbac Research at NIH Intramural Labs (Rolling; U.S. Citizen/PR Graduating Within ~6 Months of Start; Apply Senior Year for Post-Grad Start) | NIH Intramural Labs (Bethesda, MD) | <a href="https://www.training.nih.gov/research-training/pb/pb/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ✅ **[OPEN]** | Society for Science / Regeneron | Regeneron Science Talent Search 2027 — Deadline: Nov 5, 2026 | Original Biomedical Research Competition ($250K Top Prize; HS Seniors; U.S. Students, Citizenship Not Required) | Nationwide (United States) | <a href="https://sciencetalentsearch.smapply.org/prog/regeneron_science_talent_search_2027/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 
 ### Consumer & Food
 
