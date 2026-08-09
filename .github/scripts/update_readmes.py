@@ -16,21 +16,9 @@ import util
 
 
 # Display order of industry sections. Unknown industries are appended
-# alphabetically after these, and "Other" is always shown last.
-INDUSTRY_ORDER = [
-    "Investment Banking & Financial Services",
-    "Quant Trading, Hedge Funds & Market Making",
-    "Big Tech & Enterprise Software",
-    "AI, ML & Software Startups",
-    "Fellowships, Scholarships & Career Programs",
-    "Industrial, Energy & Manufacturing",
-    "Aerospace, Defense & National Labs",
-    "Asset Management & Venture Capital",
-    "Semiconductors & Hardware",
-    "Healthcare & Medical Devices",
-    "Medical & Health-Field Opportunities for Students",
-    "Consumer & Food",
-]
+# alphabetically after these, and "Other" is always shown last. The canonical
+# list lives in util so the contribution scripts classify against the same one.
+INDUSTRY_ORDER = util.INDUSTRIES
 
 HEADER = "| Status | Organization | Opportunity | Type | Location | Application | Date Posted |"
 SEPARATOR = "| ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |"

@@ -48,6 +48,43 @@ REQUIRED_FIELDS = [
 # Valid categories (informational metadata only — everything lives in one table)
 VALID_CATEGORIES = ["Internship", "Program", "Research", "Scholarship", "Fellowship", "Other"]
 
+# Industry sections, in README display order. Anything not on this list is
+# appended alphabetically after it, with "Other" always shown last. This is the
+# canonical list -- update_readmes.py renders from it and the contribution
+# scripts classify against it, so a new section only has to be added here.
+INDUSTRIES = [
+    "Investment Banking & Financial Services",
+    "Quant Trading, Hedge Funds & Market Making",
+    "Big Tech & Enterprise Software",
+    "AI, ML & Software Startups",
+    "Fellowships, Scholarships & Career Programs",
+    "Industrial, Energy & Manufacturing",
+    "Aerospace, Defense & National Labs",
+    "Asset Management & Venture Capital",
+    "Semiconductors & Hardware",
+    "Healthcare & Medical Devices",
+    "Medical & Health-Field Opportunities for Students",
+    "Consumer & Food",
+]
+
+OTHER_INDUSTRY = "Other"
+
+
+def normalize_industry(value):
+    """
+    Map a proposed industry onto the canonical list, falling back to "Other".
+
+    Contribution scripts feed this free-text (an LLM's answer, or an issue-form
+    value), so matching is case- and whitespace-insensitive.
+    """
+    if not value:
+        return OTHER_INDUSTRY
+    candidate = str(value).strip().lower()
+    for industry in INDUSTRIES:
+        if industry.lower() == candidate:
+            return industry
+    return OTHER_INDUSTRY
+
 
 def get_listings_from_json():
     """Load listings from the JSON file."""

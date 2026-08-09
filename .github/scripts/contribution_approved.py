@@ -104,7 +104,10 @@ def handle_new_opportunity(data, username, is_quick_add=False):
         "locations": locations,
         "season": season,
         "category": category,
-        "industry": "Other",
+        # The issue forms have no industry field, so manual submissions land in
+        # "Other" until a maintainer files them. Routed through the shared
+        # validator so a future form field works without further changes.
+        "industry": util.normalize_industry(data.get("industry")),
         "opportunity_type": opportunity_type,
         "target_year": ["All Students"],
         "sponsorship": sponsorship,

@@ -133,6 +133,12 @@ def extract_with_openai(page_content, additional_notes=""):
 
     client = OpenAI(api_key=api_key)
 
+    # Offer the canonical sections verbatim so the model returns a value that
+    # matches an existing README heading instead of inventing a new one.
+    industry_options = "\n".join(
+        f'  * "{industry}"' for industry in util.INDUSTRIES + [util.OTHER_INDUSTRY]
+    )
+
     prompt = f"""Analyze this opportunity posting and extract the following information.
 This is for a repository tracking opportunities that help college students go FROM CAMPUS TO CAREER
 — internships, fellowships, programs, research, scholarships, conferences, and early-career pipelines.
@@ -151,6 +157,8 @@ Extract and return a JSON object with these fields:
 - title: The role/program/opportunity title (e.g., "Software Engineering Intern", "MLH Fellowship", "REU", "STEM Scholarship")
 - locations: Array of locations (e.g., ["San Francisco, CA", "Remote"]). Use ["Multiple Locations"] if many or unspecified.
 - category: One of "Internship", "Program", "Research", "Scholarship", "Fellowship", or "Other" (your best fit)
+- industry: EXACTLY one of these strings, whichever best describes the organization (use "Other" only if none fit):
+{industry_options}
 - opportunity_type: A short, specific type label shown in the table (e.g., "Internship", "Fellowship", "Externship", "Research", "Scholarship", "Conference", "Mentorship Program")
 - field: For research programs, what field (e.g., "Computer Science", "STEM"). Empty string otherwise.
 - season: "Summer", "Fall", "Winter", "Spring", or "Multiple"
@@ -339,6 +347,7 @@ def main():
         "locations": locations,
         "season": extracted.get("season", "Multiple"),
         "category": category,
+        "industry": util.normalize_industry(extracted.get("industry")),
         "opportunity_type": extracted.get("opportunity_type", category),
         "target_year": ["All Students"],
         "sponsorship": extracted.get("sponsorship", "Not Specified"),
