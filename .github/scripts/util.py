@@ -111,7 +111,15 @@ def listing_deadline(listing, today):
 
 
 def is_closing_soon(listing, today):
-    """True when the listing's next deadline falls inside the closing-soon window."""
+    """
+    True when the listing's next deadline falls inside the closing-soon window.
+
+    A listing whose applications have not opened yet is never "closing soon" --
+    its row text mentions the opening date, which would otherwise be read as a
+    deadline and wrongly float the row to the top of its table.
+    """
+    if is_opens_soon(listing, today):
+        return False
     deadline = listing_deadline(listing, today)
     if not deadline:
         return False
@@ -141,10 +149,8 @@ def sort_listings(listings, today=None):
     today = today or datetime.now(tz=PST)
 
     def key(listing):
-        deadline = listing_deadline(listing, today)
-        closing = bool(
-            deadline and 0 <= (deadline.date() - today.date()).days <= CLOSING_SOON_DAYS
-        )
+        closing = is_closing_soon(listing, today)
+        deadline = listing_deadline(listing, today) if closing else None
         return (
             not listing.get("active", False),                # Active first
             not closing,                                     # Closing soon next
