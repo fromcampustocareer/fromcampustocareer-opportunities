@@ -179,9 +179,14 @@ def handle_close_opportunity(data, username):
     if len(matches) > 1:
         util.fail(f"Found multiple matches for {company_name} - {title}. Please provide the URL to identify the specific listing.")
 
-    # Mark as inactive
-    matches[0]["active"] = False
-    matches[0]["date_updated"] = util.get_current_timestamp()
+    # Retire it: drop it from the board and record it in ARCHIVE.md. Marking it
+    # inactive alone would leave the row in README.md as a locked entry sitting
+    # among live opportunities, and never write the archive record.
+    reason = data.get("reason_for_closing") or "closed via issue request"
+    extra = data.get("additional_information_(optional)")
+    if extra:
+        reason = f"{reason} — {extra}"
+    util.archive_listing(matches[0], reason)
 
     util.save_listings_to_json(listings)
 
