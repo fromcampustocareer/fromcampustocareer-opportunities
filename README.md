@@ -40,9 +40,9 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**125 open roles across 12 industries.** Jump to a sector:
+**124 open roles across 12 industries.** Jump to a sector:
 
-- [Investment Banking & Financial Services](#investment-banking--financial-services) — 46
+- [Investment Banking & Financial Services](#investment-banking--financial-services) — 45
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
 - [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
@@ -57,7 +57,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Investment Banking & Financial Services
 
-**46 open roles**
+**45 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -74,7 +74,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Bank of America | COO - GCIB Regulatory Summer Analyst Program 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/14353/coo-gcib-regulatory-summer-analyst-program-2027-new-york-new-york-united-states"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Bank of America | Global Operations Summer Analyst Program 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/14395/global-operations-summer-analyst-program-2027-multiple-locations"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Bank of America | Strategy and Management Summer Analyst Program 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/14443/strategy-and-management-summer-analyst-program-2027-multiple-locations"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Capital One | Commercial Internship Program - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.capitalonecareers.com/job/mclean/commercial-internship-program-summer-2027/31238/97421687536"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Citi | Markets Quantitative Analysis Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Citi | Markets Sales & Trading Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobs.citi.com/job/new-york/markets-sales-and-trading-summer-analyst-new-york-city-us-2027/287/89809477504"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Citi | Services Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobs.citi.com/job/-/-/287/93724104768"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
