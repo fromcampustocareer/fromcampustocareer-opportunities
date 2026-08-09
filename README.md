@@ -40,9 +40,9 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**124 open roles across 12 industries.** Jump to a sector:
+**123 open roles across 12 industries.** Jump to a sector:
 
-- [Investment Banking & Financial Services](#investment-banking--financial-services) — 45
+- [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
 - [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
@@ -57,7 +57,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Investment Banking & Financial Services
 
-**45 open roles**
+**44 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -91,7 +91,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | JPMorgan Chase | Marketing Leadership Development Program Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/marketing-summer"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Operations Analyst Program Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/oap-summer-analyst"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Internal Audit Summer Internship 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/internal-audit-summer-internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Wells Fargo | 2027 CIB Chief Operating Office Summer Internship | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-548718/2027-summer-internship-early-careers-corporate-investment-banking-chief-operating-office-coo/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Wells Fargo | 2027 Commercial Banking Summer Internship | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-555720/2027-commercial-banking-summer-internship-early-careers/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Wells Fargo | 2027 Commercial Banking Summer Internship - CA/CO | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-555721/2027-commercial-banking-summer-internship-early-careers-ca-co/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Wells Fargo | 2027 Commercial Banking Summer Internship - New York | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-555736/2027-commercial-banking-summer-internship-early-careers-ny/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
