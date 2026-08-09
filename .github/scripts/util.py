@@ -12,7 +12,10 @@ from zoneinfo import ZoneInfo
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 LISTINGS_FILE = os.path.join(SCRIPT_DIR, "listings.json")
 README_FILE = os.path.join(SCRIPT_DIR, "..", "..", "README.md")
+ARCHIVE_FILE = os.path.join(SCRIPT_DIR, "..", "..", "ARCHIVE.md")
 PST = ZoneInfo("America/Los_Angeles")
+
+CLOSED_STATUS = "🔒 **[CLOSED]**"
 
 # A deadline this many days out (or fewer) counts as "closing soon". Shared by
 # closing_soon.py (which sets the badge) and sort_listings (which floats those
@@ -270,6 +273,63 @@ def embed_table(filepath, table, start_marker, end_marker):
 
     with open(filepath, "w") as f:
         f.write(new_content)
+
+
+def render_archive_row(listing, reason, today=None):
+    """
+    Render a listing as an ARCHIVE.md row: the seven display columns plus the
+    Archived note.
+
+    Unlike the README, an archived row keeps its application link rather than
+    the :lock: placeholder — a closed program is often worth re-checking next
+    cycle. The reason is escaped, so a reason quoting a page title such as
+    'Page Not Found | Careers' cannot break the table.
+    """
+    today = today or datetime.now(tz=PST)
+    title = sanitize_table_cell(listing["title"])
+    title += get_sponsorship_badge(listing.get("sponsorship", ""))
+
+    cells = [
+        CLOSED_STATUS,
+        sanitize_table_cell(listing["company_name"]),
+        title,
+        sanitize_table_cell(listing.get("opportunity_type", "")),
+        format_locations(listing.get("locations", [])),
+        format_link(listing["url"]),
+        format_date(listing["date_posted"]),
+        f"Archived {today.strftime('%Y-%m-%d')} — {sanitize_table_cell(reason)}",
+    ]
+    return "| " + " | ".join(cells) + " |"
+
+
+def append_archive_row(row, archive_path=None):
+    """Append a rendered row to the ARCHIVE.md table."""
+    path = archive_path or ARCHIVE_FILE
+    lines = open(path).read().rstrip("\n").split("\n")
+    last_row = max(
+        (i for i, line in enumerate(lines) if line.startswith("| ")), default=None
+    )
+    if last_row is None:
+        raise ValueError(f"No table found in {path}")
+    lines.insert(last_row + 1, row)
+    with open(path, "w") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def archive_listing(listing, reason, today=None, archive_path=None):
+    """
+    Retire a listing the way the weekly audit does: drop it from the board and
+    record it in ARCHIVE.md.
+
+    Setting only `active` would leave the row rendered in README.md as a locked
+    entry among live opportunities; `is_visible` is what actually removes it.
+    """
+    listing["active"] = False
+    listing["is_visible"] = False
+    listing["date_updated"] = get_current_timestamp()
+    row = render_archive_row(listing, reason, today)
+    append_archive_row(row, archive_path)
+    return row
 
 
 def set_output(name, value):
