@@ -40,7 +40,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**126 open roles across 12 industries.** Jump to a sector:
+**125 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 46
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
@@ -48,7 +48,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
 - [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 6
-- [Aerospace, Defense & National Labs](#aerospace-defense--national-labs) — 3
+- [Aerospace, Defense & National Labs](#aerospace-defense--national-labs) — 2
 - [Asset Management & Venture Capital](#asset-management--venture-capital) — 2
 - [Semiconductors & Hardware](#semiconductors--hardware) — 1
 - [Healthcare & Medical Devices](#healthcare--medical-devices) — 1
@@ -213,13 +213,12 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Aerospace, Defense & National Labs
 
-**3 open roles**
+**2 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
 | ✅ **[OPEN]** | Anduril | Software Engineer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Los Alamos National Laboratory | Computing & AI Division Undergraduate Student | Internship (Summer 2027) | Multiple Locations | <a href="https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Blue Origin | Software Developer Internship – Undergraduate (Spring 2027) — Deadline: July 15, 2026 | Internship (Undergraduate) | Multiple Locations | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Asset Management & Venture Capital
 
