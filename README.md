@@ -40,7 +40,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**128 open roles across 12 industries.** Jump to a sector:
+**127 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 46
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
@@ -52,7 +52,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 - [Asset Management & Venture Capital](#asset-management--venture-capital) — 2
 - [Semiconductors & Hardware](#semiconductors--hardware) — 1
 - [Healthcare & Medical Devices](#healthcare--medical-devices) — 1
-- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 5
+- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 4
 - [Consumer & Food](#consumer--food) — 1
 
 ### Investment Banking & Financial Services
@@ -249,11 +249,10 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Medical & Health-Field Opportunities for Students
 
-**5 open roles**
+**4 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
-| ✅ **[OPEN]** | CEUfast | Graduate Nursing Scholarship — Deadline: Aug 3, 2026 | Nursing Scholarship ($5,000 + CEUfast Subscription; Grad; MSN/DNP/PhD/Post-Master's) | Online / Nationwide (United States) | <a href="https://ceufast.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | 🔥 **[CLOSING SOON]** | Children's National Hospital | ED Clinical Research Undergraduate Internship — Deadline: Aug 10, 2026 | Clinical Research Internship (Fall 2026–Spring 2027 Cohort; ED + Hematology; Patient Enrollment, Physician Shadowing & Workshops; 15 hrs/wk On-Site; Undergrad 18+, Sophomore+; Post-Bacs Eligible) | Washington, DC | <a href="https://redcap.link/research_internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ✅ **[OPEN]** | Georgetown Global Health Institute | Global Health Student Fellows 2026–2027 — Deadline: Sep 15, 2026 | Global Health Student Fellowship (Georgetown Undergrads Only) | Washington, DC (Georgetown University) | <a href="https://globalhealth.georgetown.edu/work/global-health-student-fellows/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ✅ **[OPEN]** | NIH OITE | NIH Postbac IRTA — Post-Baccalaureate Research (Rolling) | Postbac Research at NIH Intramural Labs (Rolling; U.S. Citizen/PR Graduating Within ~6 Months of Start; Apply Senior Year for Post-Grad Start) | NIH Intramural Labs (Bethesda, MD) | <a href="https://www.training.nih.gov/research-training/pb/pb/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
