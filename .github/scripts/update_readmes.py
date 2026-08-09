@@ -7,6 +7,11 @@ industry), generated from each listing's `industry` field and embedded in the
 README between the marker comments. Ordering of sections is defined by
 INDUSTRY_ORDER; any unknown industry is appended alphabetically, with "Other"
 last.
+
+This produces the finished table in one pass -- including 🔥 [CLOSING SOON] and
+⏳ [OPENS SOON] -- so a caller that regenerates and commits cannot accidentally
+publish a README with the badges stripped. closing_soon.py stays responsible for
+refreshing badges on days when nothing triggers a regeneration.
 """
 
 import os
@@ -40,6 +45,11 @@ def render_row(listing, today=None):
     elif util.is_opens_soon(listing, today):
         # Applications have not opened yet -- an `opens_on` date in the future.
         status = "⏳ **[OPENS SOON]**"
+    elif util.is_closing_soon(listing, today):
+        # Rendered here, not left to closing_soon.py: this generator rewrites the
+        # whole table, so emitting ✅ for a row closing this week would drop the
+        # 🔥 badge until the next daily run of that script.
+        status = "🔥 **[CLOSING SOON]**"
     else:
         status = "✅ **[OPEN]**"
 
