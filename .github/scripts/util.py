@@ -4,7 +4,8 @@ Utility functions for managing From Campus to Career opportunity listings.
 
 import json
 import os
-from datetime import datetime
+import re
+from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
 # Constants
@@ -12,6 +13,18 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 LISTINGS_FILE = os.path.join(SCRIPT_DIR, "listings.json")
 README_FILE = os.path.join(SCRIPT_DIR, "..", "..", "README.md")
 PST = ZoneInfo("America/Los_Angeles")
+
+# A deadline this many days out (or fewer) counts as "closing soon". Shared by
+# closing_soon.py (which sets the badge) and sort_listings (which floats those
+# rows to the top of their table) so the two can never disagree.
+CLOSING_SOON_DAYS = 14
+
+# Deadlines are written into the opportunity text, e.g. "— Deadline: Jan 15, 2027".
+MONTHS = (
+    "January|February|March|April|May|June|July|August|September|October|November|December|"
+    "Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
+)
+DATE_RE = re.compile(rf"\b({MONTHS})\s+(\d{{1,2}}),?\s+(\d{{4}})\b")
 
 # Required fields for each listing
 REQUIRED_FIELDS = [
@@ -59,16 +72,88 @@ def check_schema(listings):
     return True
 
 
-def sort_listings(listings):
-    """Sort listings by active status, date posted (newest first), then company name."""
-    return sorted(
-        listings,
-        key=lambda x: (
-            not x.get("active", False),  # Active first
-            -x.get("date_posted", 0),     # Newest first
-            x.get("company_name", "").lower()
+def parse_date(month, day, year):
+    """Parse a written-out date like ("Jan", "15", "2027") into a datetime, or None."""
+    m = month.replace(".", "")
+    if m == "Sept":
+        m = "Sep"
+    for fmt in ("%B %d %Y", "%b %d %Y"):
+        try:
+            return datetime.strptime(f"{m} {day} {year}", fmt).replace(tzinfo=PST)
+        except ValueError:
+            continue
+    return None
+
+
+def find_dates(text):
+    """Every parseable date mentioned in text."""
+    found = [parse_date(*m.groups()) for m in DATE_RE.finditer(text)]
+    return [d for d in found if d]
+
+
+def earliest_upcoming(text, today):
+    """Earliest date in text that has not passed yet, or None."""
+    upcoming = [d for d in find_dates(text) if d.date() >= today.date()]
+    return min(upcoming) if upcoming else None
+
+
+def listing_deadline(listing, today):
+    """
+    Earliest upcoming deadline for a listing, read from the same text the README
+    row shows (title, type, locations) so ordering matches the rendered badge.
+    """
+    text = " ".join([
+        listing.get("title", ""),
+        listing.get("opportunity_type", ""),
+        " ".join(listing.get("locations", []) or []),
+    ])
+    return earliest_upcoming(text, today)
+
+
+def is_closing_soon(listing, today):
+    """True when the listing's next deadline falls inside the closing-soon window."""
+    deadline = listing_deadline(listing, today)
+    if not deadline:
+        return False
+    return 0 <= (deadline.date() - today.date()).days <= CLOSING_SOON_DAYS
+
+
+def opens_on(listing):
+    """Datetime a not-yet-open listing starts accepting applications, or None."""
+    ts = listing.get("opens_on")
+    return datetime.fromtimestamp(ts, tz=PST) if ts else None
+
+
+def is_opens_soon(listing, today):
+    """True when applications for this listing have not opened yet."""
+    opens = opens_on(listing)
+    return bool(opens and opens.date() > today.date())
+
+
+def sort_listings(listings, today=None):
+    """
+    Sort listings for display: active first, then closing-soon rows (soonest
+    deadline first), then newest by date posted, then company name.
+
+    Floating closing-soon rows to the top is done here rather than by editing
+    README.md so the ordering survives every regeneration.
+    """
+    today = today or datetime.now(tz=PST)
+
+    def key(listing):
+        deadline = listing_deadline(listing, today)
+        closing = bool(
+            deadline and 0 <= (deadline.date() - today.date()).days <= CLOSING_SOON_DAYS
         )
-    )
+        return (
+            not listing.get("active", False),                # Active first
+            not closing,                                     # Closing soon next
+            deadline.date() if closing else date.max,        # Soonest deadline first
+            -listing.get("date_posted", 0),                  # Newest first
+            listing.get("company_name", "").lower(),
+        )
+
+    return sorted(listings, key=key)
 
 
 def sanitize_table_cell(value):
