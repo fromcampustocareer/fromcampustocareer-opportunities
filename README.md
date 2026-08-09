@@ -6,10 +6,10 @@
 
 ### A community-curated board of opportunities that take students from campus to career.
 
-[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&color=FFD700&labelColor=000000&cacheSeconds=86400)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/stargazers)
-[![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/graphs/contributors)
-[![Open Issues](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/issues)
+[![Stars](https://img.shields.io/github/stars/fromcampustocareer/fromcampustocareer-opportunities?style=for-the-badge&color=FFD700&labelColor=000000&cacheSeconds=86400)](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/stargazers)
+[![Last Updated](https://img.shields.io/github/last-commit/fromcampustocareer/fromcampustocareer-opportunities?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/fromcampustocareer/fromcampustocareer-opportunities?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/graphs/contributors)
+[![Open Issues](https://img.shields.io/github/issues/fromcampustocareer/fromcampustocareer-opportunities?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/issues)
 
 </div>
 
@@ -25,7 +25,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ---
 
 **To contribute** — it takes 60 seconds:
- 1. [Open an issue](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/issues/new/choose) and paste the opportunity URL
+ 1. [Open an issue](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/issues/new/choose) and paste the opportunity URL
  2. A maintainer approves it
  3. It gets automatically added to the list
 
@@ -254,7 +254,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Nestle USA | Sales Internship Program - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobdetails.nestle.com/job/Loveland-2027-Nestl%C3%A9-USA-Sales-Internship-Program-OH-45140/1395640533/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 <!-- OPPORTUNITIES_TABLE_END -->
 
-> Be the first to contribute — [paste a link](https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities/issues/new/choose) and the list fills itself in.
+> Be the first to contribute — [paste a link](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/issues/new/choose) and the list fills itself in.
 
 - [Archived / Closed Opportunities](ARCHIVE.md) — past programs that may reopen next cycle
 
