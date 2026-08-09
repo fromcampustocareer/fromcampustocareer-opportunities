@@ -58,3 +58,28 @@ body:
       placeholder: San Francisco, CA; Remote
     validations:
       required: false
+
+  - type: dropdown
+    id: industry
+    attributes:
+      label: Industry
+      description: |
+        Which section of the board does this belong in? Leave as "Other" if
+        none fit — a maintainer will file it.
+      multiple: false
+      options:
+        - "Investment Banking & Financial Services"
+        - "Quant Trading, Hedge Funds & Market Making"
+        - "Big Tech & Enterprise Software"
+        - "AI, ML & Software Startups"
+        - "Fellowships, Scholarships & Career Programs"
+        - "Industrial, Energy & Manufacturing"
+        - "Aerospace, Defense & National Labs"
+        - "Asset Management & Venture Capital"
+        - "Semiconductors & Hardware"
+        - "Healthcare & Medical Devices"
+        - "Medical & Health-Field Opportunities for Students"
+        - "Consumer & Food"
+        - "Other"
+    validations:
+      required: false
