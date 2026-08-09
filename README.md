@@ -40,14 +40,14 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**123 open roles across 12 industries.** Jump to a sector:
+**122 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
 - [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
-- [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 6
+- [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 5
 - [Aerospace, Defense & National Labs](#aerospace-defense--national-labs) — 2
 - [Asset Management & Venture Capital](#asset-management--venture-capital) — 2
 - [Semiconductors & Hardware](#semiconductors--hardware) — 1
@@ -198,11 +198,10 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Industrial, Energy & Manufacturing
 
-**6 open roles**
+**5 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
-| ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Commercial | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380466/2027-summer-corporate-intern-commercial/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Environmental, Health & Safety | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380458/2027-summer-corporate-intern-environmental-health-and-safety/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Manufacturing | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380454/2027-summer-corporate-intern-manufacturing/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Procurement | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380151/2027-summer-corporate-intern-procurement/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
