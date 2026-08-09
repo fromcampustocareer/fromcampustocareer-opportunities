@@ -16,21 +16,9 @@ import util
 
 
 # Display order of industry sections. Unknown industries are appended
-# alphabetically after these, and "Other" is always shown last.
-INDUSTRY_ORDER = [
-    "Investment Banking & Financial Services",
-    "Quant Trading, Hedge Funds & Market Making",
-    "Big Tech & Enterprise Software",
-    "AI, ML & Software Startups",
-    "Fellowships, Scholarships & Career Programs",
-    "Industrial, Energy & Manufacturing",
-    "Aerospace, Defense & National Labs",
-    "Asset Management & Venture Capital",
-    "Semiconductors & Hardware",
-    "Healthcare & Medical Devices",
-    "Medical & Health-Field Opportunities for Students",
-    "Consumer & Food",
-]
+# alphabetically after these, and "Other" is always shown last. The canonical
+# list lives in util so the contribution scripts classify against the same one.
+INDUSTRY_ORDER = util.INDUSTRIES
 
 HEADER = "| Status | Organization | Opportunity | Type | Location | Application | Date Posted |"
 SEPARATOR = "| ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |"
@@ -43,10 +31,17 @@ def gh_slug(text):
     return slug.replace(" ", "-")
 
 
-def render_row(listing):
+def render_row(listing, today=None):
     """Render one listing as a markdown table row (identical style across tables)."""
+    today = today or datetime.now(util.PST)
     active = listing.get("active", True)
-    status = "✅ **[OPEN]**" if active else "🔒 **[CLOSED]**"
+    if not active:
+        status = "🔒 **[CLOSED]**"
+    elif util.is_opens_soon(listing, today):
+        # Applications have not opened yet -- an `opens_on` date in the future.
+        status = "⏳ **[OPENS SOON]**"
+    else:
+        status = "✅ **[OPEN]**"
 
     org = util.sanitize_table_cell(listing["company_name"])
 
@@ -62,8 +57,9 @@ def render_row(listing):
     return f"| {status} | {org} | {title} | {opp_type} | {location} | {link} | {date} |"
 
 
-def create_grouped_tables(listings):
+def create_grouped_tables(listings, today=None):
     """Group listings by industry and render a section (header + table) per industry."""
+    today = today or datetime.now(util.PST)
     groups = {}
     for listing in listings:
         industry = listing.get("industry") or "Other"
@@ -82,7 +78,7 @@ def create_grouped_tables(listings):
     out.append("")
 
     for industry in order:
-        rows = util.sort_listings(groups[industry])
+        rows = util.sort_listings(groups[industry], today)
         count = len(rows)
         out.append(f"### {industry}")
         out.append("")
@@ -91,7 +87,7 @@ def create_grouped_tables(listings):
         out.append(HEADER)
         out.append(SEPARATOR)
         for listing in rows:
-            out.append(render_row(listing))
+            out.append(render_row(listing, today))
         out.append("")
 
     return "\n".join(out).rstrip()
@@ -102,8 +98,9 @@ def main():
         listings = util.get_listings_from_json()
         util.check_schema(listings)
 
+        now = datetime.now(util.PST)
         visible = [l for l in listings if l.get("is_visible", True)]
-        table = create_grouped_tables(visible)
+        table = create_grouped_tables(visible, now)
 
         readme_path = os.path.join(
             os.path.dirname(os.path.abspath(__file__)),
@@ -118,14 +115,17 @@ def main():
             "<!-- OPPORTUNITIES_TABLE_END -->"
         )
 
-        now = datetime.now(util.PST)
         timestamp = now.strftime("%Y-%m-%d %H:%M PST")
         util.set_output("commit_message", f"Update README ({timestamp})")
 
         active = sum(1 for l in visible if l.get("active", True))
+        opens_soon = sum(1 for l in visible if util.is_opens_soon(l, now))
+        closing = sum(1 for l in visible
+                      if l.get("active", True) and util.is_closing_soon(l, now))
         industries = len({l.get("industry") or "Other" for l in visible})
         print(f"Successfully updated README: {len(visible)} opportunities "
-              f"({active} active) across {industries} industries")
+              f"({active} active, {closing} closing soon, {opens_soon} opens soon) "
+              f"across {industries} industries")
 
     except Exception as e:
         util.fail(str(e))

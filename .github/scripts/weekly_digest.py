@@ -4,7 +4,7 @@ weekly_digest.py — generate a markdown digest of new and closing-soon entries.
 
 Reads README.md, parses every <!-- *_TABLE_START --> ... <!-- *_TABLE_END -->.
 Outputs a markdown summary to digest.md with two sections:
-  1. New this week (entries with Date Posted in last 7 days)
+  1. New this week (entries with Date Posted in the last NEW_WINDOW_DAYS days)
   2. Closing soon (entries currently flagged 🔥 [CLOSING SOON])
 
 Sets GITHUB_OUTPUT has_content=true if either section is non-empty.
@@ -13,12 +13,16 @@ Sets GITHUB_OUTPUT has_content=true if either section is non-empty.
 import os
 import re
 from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
 
-PST = ZoneInfo("America/Los_Angeles")
+import util
+
+PST = util.PST
 README = os.path.join(os.path.dirname(__file__), "..", "..", "README.md")
 DIGEST = os.path.join(os.path.dirname(__file__), "..", "..", "digest.md")
-REPO_URL = "https://github.com/Jose-Gael-Cruz-Lopez/fromcampustocareer-opportunities"
+REPO_URL = "https://github.com/fromcampustocareer/fromcampustocareer-opportunities"
+
+# How far back "new this week" looks. Distinct from the closing-soon window.
+NEW_WINDOW_DAYS = 7
 
 TABLE_RE = re.compile(r"<!-- (\w+)_TABLE_START -->(.*?)<!-- \1_TABLE_END -->", re.DOTALL)
 DATE_POSTED_RE = re.compile(r"^([A-Z][a-z]{2})\s+(\d{1,2}),?\s+(\d{4})$")
@@ -98,7 +102,7 @@ def main():
         content = f.read()
 
     today = datetime.now(tz=PST)
-    cutoff = today - timedelta(days=7)
+    cutoff = today - timedelta(days=NEW_WINDOW_DAYS)
 
     all_rows = []
     for m in TABLE_RE.finditer(content):
@@ -130,13 +134,15 @@ def main():
 
     if closing_rows:
         out.append(f"\n## 🔥 Closing soon ({len(closing_rows)})\n")
-        out.append("Apply now — these deadlines are within 7 days:\n")
+        out.append(
+            f"Apply now — these deadlines are within {util.CLOSING_SOON_DAYS} days:\n"
+        )
         for s, r in closing_rows:
             out.append(build_row_summary(s, r))
 
     if new_rows:
         out.append(f"\n## 🆕 New this week ({len(new_rows)})\n")
-        out.append("Added in the last 7 days:\n")
+        out.append(f"Added in the last {NEW_WINDOW_DAYS} days:\n")
         for s, r in new_rows:
             out.append(build_row_summary(s, r))
 
