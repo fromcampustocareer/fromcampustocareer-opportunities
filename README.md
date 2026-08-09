@@ -40,10 +40,10 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**118 open roles across 12 industries.** Jump to a sector:
+**117 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
-- [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 30
+- [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 29
 - [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 9
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
@@ -108,7 +108,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Quant Trading, Hedge Funds & Market Making
 
-**30 open roles**
+**29 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -139,7 +139,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Voloridge Investment Management | Quantitative Developer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Voloridge Investment Management | Quantitative Research Intern (Summer 2027) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Walleye Capital | Quant Developer Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Walleye Capital | Investor Relations Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676605006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Walleye Capital | Treasury Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4677037006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Walleye Capital | Business Operations Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4678723006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 
