@@ -40,11 +40,11 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**115 open roles across 12 industries.** Jump to a sector:
+**114 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 27
-- [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 9
+- [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 8
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
 - [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 5
@@ -142,7 +142,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Big Tech & Enterprise Software
 
-**9 open roles**
+**8 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -152,7 +152,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Amazon | Tax Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.amazon.jobs/jobs/10435122"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | ByteDance | Student Researcher, Multimodal Interaction & World Model (Seed) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://joinbytedance.com/search/7623548747208739077"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | ByteDance | Student Researcher, Vision Foundation Model (Seed) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://joinbytedance.com/search/7623544831999346997"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | TikTok | LLM Post-training Engineer Intern, Research & Product | Research Internship (Summer 2027) | Multiple Locations | <a href="https://lifeattiktok.com/search/7631599293708126517"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Amazon | Software Development Engineer Internship - Fall 2026 (US) | Internship (Fall 2026; 12-Week, Undergraduate/Graduate) | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/3116030"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 23, 2026 |
 | ✅ **[OPEN]** | Apple | Software Undergrad Engineering Internships | Internship (Undergraduate) | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
