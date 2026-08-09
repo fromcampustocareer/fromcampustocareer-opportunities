@@ -40,11 +40,11 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**121 open roles across 12 industries.** Jump to a sector:
+**120 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 31
-- [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
+- [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 10
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
 - [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 5
@@ -146,7 +146,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Big Tech & Enterprise Software
 
-**11 open roles**
+**10 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -159,7 +159,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Podium | Software Engineering Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/podium81/jobs/7939921"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | TikTok | LLM Post-training Engineer Intern, Research & Product | Research Internship (Summer 2027) | Multiple Locations | <a href="https://lifeattiktok.com/search/7631599293708126517"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Amazon | Software Development Engineer Internship - Fall 2026 (US) | Internship (Fall 2026; 12-Week, Undergraduate/Graduate) | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/3116030"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 23, 2026 |
-| ✅ **[OPEN]** | Pinterest | Software Engineer I, Backend | Entry-Level Full-Time Software Engineer (Backend) | Seattle, WA, San Francisco, CA | <a href="https://www.pinterestcareers.com/jobs/6816337/software-engineer-i-backend/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 23, 2026 |
 | ✅ **[OPEN]** | Apple | Software Undergrad Engineering Internships | Internship (Undergraduate) | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### AI, ML & Software Startups

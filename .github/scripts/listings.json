@@ -2853,8 +2853,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1782241200,
     "date_updated": 1782241200,
     "source": "VazquezJocelyn",
