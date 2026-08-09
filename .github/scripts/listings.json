@@ -58,8 +58,8 @@
       "All Students"
     ],
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1781304974,
     "date_updated": 1781304974,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -102,8 +102,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1781304974,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -178,7 +178,7 @@
   {
     "id": "5317546b-184a-4574-9c2b-4978e6d248e9",
     "company_name": "Y Combinator",
-    "title": "2027 YC Startup Internship Expo",
+    "title": "2027 YC Startup Internship Expo \u2014 Deadline: Aug 14, 2026 (Event: Aug 15, 2026)",
     "url": "https://events.ycombinator.com/2027-summer-internship-expo",
     "locations": [
       "Online"
@@ -850,8 +850,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -982,8 +982,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -1246,8 +1246,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -1411,7 +1411,7 @@
     "id": "38b6a46a-914a-4e4d-8fe8-c4307ea902d2",
     "company_name": "JPMorgan Chase",
     "title": "Commercial & Specialized Industries Summer Analyst 2027",
-    "url": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/mmbsi-summer",
+    "url": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/csi-summer",
     "locations": [
       "Multiple Locations"
     ],
@@ -1752,8 +1752,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -1774,8 +1774,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -1796,8 +1796,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -1818,8 +1818,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -2192,8 +2192,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -2412,8 +2412,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -2853,8 +2853,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1782241200,
     "date_updated": 1782241200,
     "source": "VazquezJocelyn",
@@ -2941,8 +2941,8 @@
       "Undergraduate"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1784833200,
     "date_updated": 1784833200,
     "source": "Jose-Gael-Cruz-Lopez",
@@ -2963,8 +2963,8 @@
       "Graduate"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1784833200,
     "date_updated": 1784833200,
     "source": "Jose-Gael-Cruz-Lopez",

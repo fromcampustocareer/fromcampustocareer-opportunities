@@ -40,24 +40,24 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**129 open roles across 12 industries.** Jump to a sector:
+**115 open roles across 12 industries.** Jump to a sector:
 
-- [Investment Banking & Financial Services](#investment-banking--financial-services) — 46
-- [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
-- [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
-- [AI, ML & Software Startups](#ai-ml--software-startups) — 10
+- [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
+- [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 27
+- [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 9
+- [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
-- [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 6
-- [Aerospace, Defense & National Labs](#aerospace-defense--national-labs) — 3
+- [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 5
+- [Aerospace, Defense & National Labs](#aerospace-defense--national-labs) — 2
 - [Asset Management & Venture Capital](#asset-management--venture-capital) — 2
 - [Semiconductors & Hardware](#semiconductors--hardware) — 1
 - [Healthcare & Medical Devices](#healthcare--medical-devices) — 1
-- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 6
+- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 4
 - [Consumer & Food](#consumer--food) — 1
 
 ### Investment Banking & Financial Services
 
-**46 open roles**
+**44 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -74,14 +74,13 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Bank of America | COO - GCIB Regulatory Summer Analyst Program 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/14353/coo-gcib-regulatory-summer-analyst-program-2027-new-york-new-york-united-states"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Bank of America | Global Operations Summer Analyst Program 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/14395/global-operations-summer-analyst-program-2027-multiple-locations"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Bank of America | Strategy and Management Summer Analyst Program 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/14443/strategy-and-management-summer-analyst-program-2027-multiple-locations"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Capital One | Commercial Internship Program - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.capitalonecareers.com/job/mclean/commercial-internship-program-summer-2027/31238/97421687536"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Citi | Markets Quantitative Analysis Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2027/287/89809477472"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Citi | Markets Sales & Trading Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobs.citi.com/job/new-york/markets-sales-and-trading-summer-analyst-new-york-city-us-2027/287/89809477504"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Citi | Services Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://jobs.citi.com/job/-/-/287/93724104768"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | DTCC | Information Technology Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Asset Management Product Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/asset-management-summer-analyst"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | CIB Risk Management Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/risk-summer-analyst"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | JPMorgan Chase | Commercial & Specialized Industries Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/mmbsi-summer"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
+| ✅ **[OPEN]** | JPMorgan Chase | Commercial & Specialized Industries Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/csi-summer"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Commercial Real Estate Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/cre-summer"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Global Finance & Business Management Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/finance-summer-analyst"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Global Private Bank Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/wealth-management-summer-analyst"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
@@ -92,7 +91,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | JPMorgan Chase | Marketing Leadership Development Program Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/marketing-summer"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Operations Analyst Program Summer Analyst 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/oap-summer-analyst"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | JPMorgan Chase | Internal Audit Summer Internship 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.jpmorganchase.com/careers/explore-opportunities/programs/internal-audit-summer-internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Wells Fargo | 2027 CIB Chief Operating Office Summer Internship | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-548718/2027-summer-internship-early-careers-corporate-investment-banking-chief-operating-office-coo/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Wells Fargo | 2027 Commercial Banking Summer Internship | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-555720/2027-commercial-banking-summer-internship-early-careers/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Wells Fargo | 2027 Commercial Banking Summer Internship - CA/CO | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-555721/2027-commercial-banking-summer-internship-early-careers-ca-co/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Wells Fargo | 2027 Commercial Banking Summer Internship - New York | Internship (Summer 2027) | Multiple Locations | <a href="https://www.wellsfargojobs.com/en/jobs/r-555736/2027-commercial-banking-summer-internship-early-careers-ny/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
@@ -110,7 +108,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Quant Trading, Hedge Funds & Market Making
 
-**32 open roles**
+**27 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -136,20 +134,15 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Susquehanna (SIG) | Accounting Internship - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10966?lang=en-us"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Tower Research | Quantitative Developer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8044334"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Tower Research | Quantitative Trader Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8024128"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Two Sigma | AI Research Scientist Intern - Summer 2027 (MS / PhD) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Two Sigma | Quantitative Researcher Intern - Summer 2027 | Research Internship (Summer 2027) | Multiple Locations | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Virtu Financial | Quant Research Intern - Summer 2027 (Undergrad) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/virtu/jobs/8142539002"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Voloridge Investment Management | Quantitative Developer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Voloridge Investment Management | Quantitative Research Intern (Summer 2027) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Walleye Capital | Quant Developer Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Walleye Capital | Fundamental Equities Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4677152006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Walleye Capital | Investor Relations Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676605006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Walleye Capital | Treasury Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4677037006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Walleye Capital | Business Operations Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4678723006"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 
 ### Big Tech & Enterprise Software
 
-**11 open roles**
+**9 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -159,15 +152,13 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Amazon | Tax Intern - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://www.amazon.jobs/jobs/10435122"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | ByteDance | Student Researcher, Multimodal Interaction & World Model (Seed) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://joinbytedance.com/search/7623548747208739077"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | ByteDance | Student Researcher, Vision Foundation Model (Seed) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://joinbytedance.com/search/7623544831999346997"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Podium | Software Engineering Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/podium81/jobs/7939921"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | TikTok | LLM Post-training Engineer Intern, Research & Product | Research Internship (Summer 2027) | Multiple Locations | <a href="https://lifeattiktok.com/search/7631599293708126517"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Amazon | Software Development Engineer Internship - Fall 2026 (US) | Internship (Fall 2026; 12-Week, Undergraduate/Graduate) | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/3116030"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 23, 2026 |
-| ✅ **[OPEN]** | Pinterest | Software Engineer I, Backend | Entry-Level Full-Time Software Engineer (Backend) | Seattle, WA, San Francisco, CA | <a href="https://www.pinterestcareers.com/jobs/6816337/software-engineer-i-backend/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 23, 2026 |
 | ✅ **[OPEN]** | Apple | Software Undergrad Engineering Internships | Internship (Undergraduate) | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### AI, ML & Software Startups
 
-**10 open roles**
+**9 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -180,7 +171,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Naive | Software Engineer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://www.workatastartup.com/jobs/94647"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Trata | Research Scientist Intern (Summer 2027) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://www.workatastartup.com/jobs/94620"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Listen Labs | Future Founder Program | Full-Time Engineering Program for Aspiring Founders (Selective; Mentorship from Founders/Investors) | San Francisco, CA | <a href="https://listenlabs.ai/founder-program"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 19, 2026 |
-| ✅ **[OPEN]** | Anthropic | Claude Corps Fellow — Deadline: July 17, 2026 (First Cohort) :no_entry_sign: | Year-Long Fellowship (Anthropic x CodePath; Early Career, <2 yrs Exp; $85K; No Visa Sponsorship) | United States | <a href="https://job-boards.greenhouse.io/claudecorps/jobs/4250200009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Fellowships, Scholarships & Career Programs
 
@@ -188,6 +178,8 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔥 **[CLOSING SOON]** | Y Combinator | 2027 YC Startup Internship Expo — Deadline: Aug 14, 2026 (Event: Aug 15, 2026) | Internship Expo / Hiring Event (Connect with YC Startups) | Online | <a href="https://events.ycombinator.com/2027-summer-internship-expo"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| 🔥 **[CLOSING SOON]** | XPRIZE | Build with Gemini XPRIZE — Deadline: Aug 17, 2026 | Competition / Hackathon ($2M in Prizes; 18+) | Online | <a href="https://xprize.devpost.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 | ✅ **[OPEN]** | Databricks | Student Fellows Program | Fellowship | Multiple Locations | <a href="https://www.databricks.com/university/student-fellows"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Microsoft | Learn Student Ambassadors | Program | Multiple Locations | <a href="https://mvp.microsoft.com/studentambassadors"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | MLH | MLH Fellowship | Fellowship | Multiple Locations | <a href="https://fellowship.mlh.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
@@ -195,17 +187,14 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | AWS / IOScholarships Foundation | AWS re/Start Cloud Computing Program (Sep 15–Dec 15, 2026 Cohort) :no_entry_sign: | Tuition-Free Full-Time Cloud/IT Training Program (FREE; Ages 18+; HS Diploma; U.S. Work Authorization) | Virtual (United States) | <a href="https://www.ioscholarships.com/restart/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 19, 2026 |
 | ✅ **[OPEN]** | Management Leadership for Tomorrow (MLT) | Career Prep 2029 — Deadline: Jan 15, 2027 | 20+ Month Career Development Program (College Sophomores; Grad Fall 2028–Summer 2029; U.S. Citizen/PR; GPA 3.0+) | Virtual & In-Person (Nationwide) | <a href="https://mlt.smapply.org/prog/careerprep2029_application/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 19, 2026 |
 | ✅ **[OPEN]** | University of Chicago (Harris) | Applied Data Fellowship (ADF) | One-Year Paid Data Fellowship (Rolling / Year-Round; Embedded Placements) | Chicago, IL | <a href="https://www.adf.uchicago.edu/apply"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 15, 2026 |
-| ✅ **[OPEN]** | Y Combinator | 2027 YC Startup Internship Expo | Internship Expo / Hiring Event (Connect with YC Startups) | Online | <a href="https://events.ycombinator.com/2027-summer-internship-expo"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
-| ✅ **[OPEN]** | XPRIZE | Build with Gemini XPRIZE — Deadline: Aug 17, 2026 | Competition / Hackathon ($2M in Prizes; 18+) | Online | <a href="https://xprize.devpost.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 | ✅ **[OPEN]** | ElevenLabs | ElevenLabs Ambassador Program | Ambassador Program (Community Builder / Content Creator; 18+) | Remote / Global | <a href="https://elevenlabs.io/ambassador"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Industrial, Energy & Manufacturing
 
-**6 open roles**
+**5 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
-| ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Commercial | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380466/2027-summer-corporate-intern-commercial/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Environmental, Health & Safety | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380458/2027-summer-corporate-intern-environmental-health-and-safety/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Manufacturing | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380454/2027-summer-corporate-intern-manufacturing/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Caterpillar | 2027 Summer Corporate Intern - Procurement | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.caterpillar.com/en/jobs/r0000380151/2027-summer-corporate-intern-procurement/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
@@ -214,13 +203,12 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Aerospace, Defense & National Labs
 
-**3 open roles**
+**2 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
 | ✅ **[OPEN]** | Anduril | Software Engineer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Los Alamos National Laboratory | Computing & AI Division Undergraduate Student | Internship (Summer 2027) | Multiple Locations | <a href="https://lanl.jobs/search/jobdetails/computing-and-artificial-intelligence-cai-division-ugs/ce152ba6-2ab8-4ef8-827d-f9ca75a54e6e"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Blue Origin | Software Developer Internship – Undergraduate (Spring 2027) — Deadline: July 15, 2026 | Internship (Undergraduate) | Multiple Locations | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Asset Management & Venture Capital
 
@@ -249,14 +237,12 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Medical & Health-Field Opportunities for Students
 
-**6 open roles**
+**4 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | CEUfast | Undergraduate Nursing Scholarship — Deadline: Aug 3, 2026 | Nursing Scholarship ($1,000 + CEUfast Subscription; Undergrad; Accredited ADN/BSN; U.S.) | Online / Nationwide (United States) | <a href="https://ceufast.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
-| 🔥 **[CLOSING SOON]** | CEUfast | Graduate Nursing Scholarship — Deadline: Aug 3, 2026 | Nursing Scholarship ($5,000 + CEUfast Subscription; Grad; MSN/DNP/PhD/Post-Master's) | Online / Nationwide (United States) | <a href="https://ceufast.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | 🔥 **[CLOSING SOON]** | Children's National Hospital | ED Clinical Research Undergraduate Internship — Deadline: Aug 10, 2026 | Clinical Research Internship (Fall 2026–Spring 2027 Cohort; ED + Hematology; Patient Enrollment, Physician Shadowing & Workshops; 15 hrs/wk On-Site; Undergrad 18+, Sophomore+; Post-Bacs Eligible) | Washington, DC | <a href="https://redcap.link/research_internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
-| ✅ **[OPEN]** | Georgetown Global Health Institute | Global Health Student Fellows 2026–2027 — Deadline: Sep 15, 2026 | Global Health Student Fellowship (Georgetown Undergrads Only) | Washington, DC (Georgetown University) | <a href="https://globalhealth.georgetown.edu/work/global-health-student-fellows/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ⏳ **[OPENS SOON]** | Georgetown Global Health Institute | Global Health Student Fellows 2026–2027 — Opens: Aug 14, 2026; Deadline: Sep 15, 2026 | Global Health Student Fellowship (Georgetown Undergrads Only) | Washington, DC (Georgetown University) | <a href="https://globalhealth.georgetown.edu/work/global-health-student-fellows/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ✅ **[OPEN]** | NIH OITE | NIH Postbac IRTA — Post-Baccalaureate Research (Rolling) | Postbac Research at NIH Intramural Labs (Rolling; U.S. Citizen/PR Graduating Within ~6 Months of Start; Apply Senior Year for Post-Grad Start) | NIH Intramural Labs (Bethesda, MD) | <a href="https://www.training.nih.gov/research-training/pb/pb/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ✅ **[OPEN]** | Society for Science / Regeneron | Regeneron Science Talent Search 2027 — Deadline: Nov 5, 2026 | Original Biomedical Research Competition ($250K Top Prize; HS Seniors; U.S. Students, Citizenship Not Required) | Nationwide (United States) | <a href="https://sciencetalentsearch.smapply.org/prog/regeneron_science_talent_search_2027/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 
