@@ -8,6 +8,11 @@ on:
       - main
   workflow_dispatch:
 
+# Needed to push the regenerated README; the repository default is read-only.
+# Latent until now only because the commit step is skipped when there is no diff.
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
