@@ -2412,8 +2412,8 @@
       "All Students"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1783796400,
     "date_updated": 1783796400,
     "source": "Jose-Gael-Cruz-Lopez",
