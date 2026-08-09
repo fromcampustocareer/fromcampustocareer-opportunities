@@ -40,12 +40,12 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**127 open roles across 12 industries.** Jump to a sector:
+**126 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 46
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
 - [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
-- [AI, ML & Software Startups](#ai-ml--software-startups) — 10
+- [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
 - [Industrial, Energy & Manufacturing](#industrial-energy--manufacturing) — 6
 - [Aerospace, Defense & National Labs](#aerospace-defense--national-labs) — 3
@@ -167,7 +167,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### AI, ML & Software Startups
 
-**10 open roles**
+**9 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -180,7 +180,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Naive | Software Engineer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://www.workatastartup.com/jobs/94647"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Trata | Research Scientist Intern (Summer 2027) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://www.workatastartup.com/jobs/94620"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Listen Labs | Future Founder Program | Full-Time Engineering Program for Aspiring Founders (Selective; Mentorship from Founders/Investors) | San Francisco, CA | <a href="https://listenlabs.ai/founder-program"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 19, 2026 |
-| ✅ **[OPEN]** | Anthropic | Claude Corps Fellow — Deadline: July 17, 2026 (First Cohort) :no_entry_sign: | Year-Long Fellowship (Anthropic x CodePath; Early Career, <2 yrs Exp; $85K; No Visa Sponsorship) | United States | <a href="https://job-boards.greenhouse.io/claudecorps/jobs/4250200009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 
 ### Fellowships, Scholarships & Career Programs
 

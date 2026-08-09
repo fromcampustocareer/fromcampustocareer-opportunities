@@ -58,8 +58,8 @@
       "All Students"
     ],
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1781304974,
     "date_updated": 1781304974,
     "source": "Jose-Gael-Cruz-Lopez",
