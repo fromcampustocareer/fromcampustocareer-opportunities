@@ -40,10 +40,10 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**122 open roles across 12 industries.** Jump to a sector:
+**121 open roles across 12 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 44
-- [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 32
+- [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 31
 - [Big Tech & Enterprise Software](#big-tech--enterprise-software) — 11
 - [AI, ML & Software Startups](#ai-ml--software-startups) — 9
 - [Fellowships, Scholarships & Career Programs](#fellowships-scholarships--career-programs) — 10
@@ -108,7 +108,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Quant Trading, Hedge Funds & Market Making
 
-**32 open roles**
+**31 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
@@ -134,7 +134,6 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 | ✅ **[OPEN]** | Susquehanna (SIG) | Accounting Internship - Summer 2027 | Internship (Summer 2027) | Multiple Locations | <a href="https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10966?lang=en-us"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Tower Research | Quantitative Developer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8044334"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Tower Research | Quantitative Trader Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8024128"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
-| ✅ **[OPEN]** | Two Sigma | AI Research Scientist Intern - Summer 2027 (MS / PhD) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Two Sigma | Quantitative Researcher Intern - Summer 2027 | Research Internship (Summer 2027) | Multiple Locations | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Virtu Financial | Quant Research Intern - Summer 2027 (Undergrad) | Research Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/virtu/jobs/8142539002"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Voloridge Investment Management | Quantitative Developer Intern (Summer 2027) | Internship (Summer 2027) | Multiple Locations | <a href="https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
