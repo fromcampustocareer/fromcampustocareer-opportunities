@@ -34,6 +34,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Table of Contents
 
 - [Opportunities](#opportunities)
+- [Resources](#resources)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
@@ -325,6 +326,17 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 > Be the first to contribute — [paste a link](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/issues/new/choose) and the list fills itself in.
 
 - [Archived / Closed Opportunities](ARCHIVE.md) — past programs that may reopen next cycle
+
+---
+
+## Resources
+
+Other boards and guides worth watching alongside this one:
+
+- [Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) — SimplifyJobs' community-maintained list
+- [summer-2027-internships](https://github.com/sndsh404/summer-2027-internships) — another community-maintained Summer 2027 tracker
+- [PM Recruiting Hub](https://github.com/abbybravo/PM-Recruiting-Hub) — product-management recruiting resources
+- [NYU Entrepreneurial Institute — Opportunities](https://nyuei.notion.site/24b63073efc980e485ccf8f8ea610944) — startup and entrepreneurship programs
 
 ---
 
