@@ -2919,10 +2919,10 @@
       "Sophomore"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1784833200,
-    "date_updated": 1784833200,
+    "date_updated": 1786477652,
     "source": "Jose-Gael-Cruz-Lopez",
     "industry": "Medical & Health-Field Opportunities for Students"
   },
@@ -4312,5 +4312,50 @@
     "date_updated": 1786333130,
     "source": "Jose-Gael-Cruz-Lopez",
     "industry": "Fellowships, Scholarships & Career Programs"
+  },
+  {
+    "id": "b5c0c7bd-92e0-404e-aad6-6c997f106f36",
+    "company_name": "Emergency Nurses Association Foundation",
+    "title": "Academic Scholarships, Fall Cycle \u2014 Opens: Aug 17, 2026; Deadline: Sep 18, 2026",
+    "url": "https://www.ena.org/education/grants-scholarships",
+    "locations": [
+      "Online / Nationwide (United States)"
+    ],
+    "season": "Fall",
+    "category": "Scholarship",
+    "opportunity_type": "Emergency Nursing Scholarship (Up to $10,000; Undergrad & Grad Nursing; ENA Student Membership Required)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1786477629,
+    "date_updated": 1786477629,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students",
+    "opens_on": 1786950000
+  },
+  {
+    "id": "c3a46534-e086-4549-8bcb-f77f52863da8",
+    "company_name": "NC AHEC",
+    "title": "NC AHEC Scholars \u2014 Two-Year Interprofessional Program (Rolling)",
+    "url": "https://go.northwestahec.wakehealth.edu/scholars",
+    "locations": [
+      "North Carolina"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Two-Year HRSA-Funded Interprofessional Training Program (80 hrs Didactic + 80 hrs Community Clinical per Year; Rural & Underserved NC; NC Health-Professions Students with 2+ Years Remaining)",
+    "target_year": [
+      "All Students"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1786477629,
+    "date_updated": 1786477629,
+    "source": "Jose-Gael-Cruz-Lopez",
+    "industry": "Medical & Health-Field Opportunities for Students"
   }
 ]
