@@ -2919,10 +2919,10 @@
       "Sophomore"
     ],
     "sponsorship": "Not Specified",
-    "active": true,
-    "is_visible": true,
+    "active": false,
+    "is_visible": false,
     "date_posted": 1784833200,
-    "date_updated": 1784833200,
+    "date_updated": 1786477652,
     "source": "Jose-Gael-Cruz-Lopez",
     "industry": "Medical & Health-Field Opportunities for Students"
   },
