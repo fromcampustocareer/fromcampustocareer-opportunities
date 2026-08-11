@@ -339,6 +339,11 @@ Other boards and guides worth watching alongside this one:
 - [PM Recruiting Hub](https://github.com/abbybravo/PM-Recruiting-Hub) — product-management recruiting resources
 - [NYU Entrepreneurial Institute — Opportunities](https://nyuei.notion.site/24b63073efc980e485ccf8f8ea610944) — startup and entrepreneurship programs
 
+**Between cycles — worth watching.** Recurring programs whose next application window isn't posted yet, so they aren't listed above:
+
+- [National Medical Fellowships — Scholarships & Awards](https://nmfonline.org/students/scholarships-and-awards/) — runs in cycles (2026: Jan 12–Feb 23, Apr 6–May 17, Jun 29–Aug 9); watch for the next cycle
+- [SNMA HPREP — Harvard](https://hprep.wordpress.com/application/) · [UT Southwestern](https://www.utsouthwestern.edu/education/programs/nondegree-programs/high-school-students/hprep/) · [Weill Cornell](https://diversity.weill.cornell.edu/opportunities/health-profession-recruitmentexposure-program) — Saturday science/medicine enrichment for high schoolers; chapters post their cycle each autumn
+
 ---
 
 ## Contributing
