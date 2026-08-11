@@ -41,7 +41,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 ## Opportunities
 
 <!-- OPPORTUNITIES_TABLE_START -->
-**174 open roles across 13 industries.** Jump to a sector:
+**176 open roles across 13 industries.** Jump to a sector:
 
 - [Investment Banking & Financial Services](#investment-banking--financial-services) — 49
 - [Quant Trading, Hedge Funds & Market Making](#quant-trading-hedge-funds--market-making) — 39
@@ -53,7 +53,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 - [Asset Management & Venture Capital](#asset-management--venture-capital) — 2
 - [Semiconductors & Hardware](#semiconductors--hardware) — 3
 - [Healthcare & Medical Devices](#healthcare--medical-devices) — 1
-- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 4
+- [Medical & Health-Field Opportunities for Students](#medical--health-field-opportunities-for-students) — 6
 - [Consumer & Food](#consumer--food) — 2
 - [Other](#other) — 2
 
@@ -295,11 +295,13 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 ### Medical & Health-Field Opportunities for Students
 
-**4 open roles**
+**6 open roles**
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | Children's National Hospital | ED Clinical Research Undergraduate Internship — Deadline: Aug 10, 2026 | Clinical Research Internship (Fall 2026–Spring 2027 Cohort; ED + Hematology; Patient Enrollment, Physician Shadowing & Workshops; 15 hrs/wk On-Site; Undergrad 18+, Sophomore+; Post-Bacs Eligible) | Washington, DC | <a href="https://redcap.link/research_internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
+| ⏳ **[OPENS SOON]** | Emergency Nurses Association Foundation | Academic Scholarships, Fall Cycle — Opens: Aug 17, 2026; Deadline: Sep 18, 2026 | Emergency Nursing Scholarship (Up to $10,000; Undergrad & Grad Nursing; ENA Student Membership Required) | Online / Nationwide (United States) | <a href="https://www.ena.org/education/grants-scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Aug 11, 2026 |
+| ✅ **[OPEN]** | NC AHEC | NC AHEC Scholars — Two-Year Interprofessional Program (Rolling) | Two-Year HRSA-Funded Interprofessional Training Program (80 hrs Didactic + 80 hrs Community Clinical per Year; Rural & Underserved NC; NC Health-Professions Students with 2+ Years Remaining) | North Carolina | <a href="https://go.northwestahec.wakehealth.edu/scholars"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Aug 11, 2026 |
+| ✅ **[OPEN]** | Children's National Hospital | ED Clinical Research Undergraduate Internship — Deadline: Aug 10, 2026 | Clinical Research Internship (Fall 2026–Spring 2027 Cohort; ED + Hematology; Patient Enrollment, Physician Shadowing & Workshops; 15 hrs/wk On-Site; Undergrad 18+, Sophomore+; Post-Bacs Eligible) | Washington, DC | <a href="https://redcap.link/research_internship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ⏳ **[OPENS SOON]** | Georgetown Global Health Institute | Global Health Student Fellows 2026–2027 — Opens: Aug 14, 2026; Deadline: Sep 15, 2026 | Global Health Student Fellowship (Georgetown Undergrads Only) | Washington, DC (Georgetown University) | <a href="https://globalhealth.georgetown.edu/work/global-health-student-fellows/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ✅ **[OPEN]** | NIH OITE | NIH Postbac IRTA — Post-Baccalaureate Research (Rolling) | Postbac Research at NIH Intramural Labs (Rolling; U.S. Citizen/PR Graduating Within ~6 Months of Start; Apply Senior Year for Post-Grad Start) | NIH Intramural Labs (Bethesda, MD) | <a href="https://www.training.nih.gov/research-training/pb/pb/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
 | ✅ **[OPEN]** | Society for Science / Regeneron | Regeneron Science Talent Search 2027 — Deadline: Nov 5, 2026 | Original Biomedical Research Competition ($250K Top Prize; HS Seniors; U.S. Students, Citizenship Not Required) | Nationwide (United States) | <a href="https://sciencetalentsearch.smapply.org/prog/regeneron_science_talent_search_2027/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 23, 2026 |
