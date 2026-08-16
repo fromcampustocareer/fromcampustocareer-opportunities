@@ -177,7 +177,7 @@ So we're building the resource we wish we'd had: every opportunity worth knowing
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | Y Combinator | 2027 YC Startup Internship Expo — Deadline: Aug 14, 2026 (Event: Aug 15, 2026) | Internship Expo / Hiring Event (Connect with YC Startups) | Online | <a href="https://events.ycombinator.com/2027-summer-internship-expo"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
+| ✅ **[OPEN]** | Y Combinator | 2027 YC Startup Internship Expo — Deadline: Aug 14, 2026 (Event: Aug 15, 2026) | Internship Expo / Hiring Event (Connect with YC Startups) | Online | <a href="https://events.ycombinator.com/2027-summer-internship-expo"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 | 🔥 **[CLOSING SOON]** | XPRIZE | Build with Gemini XPRIZE — Deadline: Aug 17, 2026 | Competition / Hackathon ($2M in Prizes; 18+) | Online | <a href="https://xprize.devpost.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jun 12, 2026 |
 | ✅ **[OPEN]** | Databricks | Student Fellows Program | Fellowship | Multiple Locations | <a href="https://www.databricks.com/university/student-fellows"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
 | ✅ **[OPEN]** | Microsoft | Learn Student Ambassadors | Program | Multiple Locations | <a href="https://mvp.microsoft.com/studentambassadors"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Jul 11, 2026 |
